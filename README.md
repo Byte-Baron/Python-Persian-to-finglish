@@ -1,1 +1,0 @@
-# Python-Persian-to-finglish
